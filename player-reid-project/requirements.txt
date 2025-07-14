@@ -1,0 +1,4 @@
+ultralytics>=8.1.5
+opencv-python
+deep_sort_realtime
+seaborn

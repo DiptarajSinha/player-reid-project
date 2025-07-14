@@ -23,10 +23,9 @@ player-reid-project/
 ## 🛠️ Setup Instructions
 
 1. **Clone or Download this Repository**
-   ```
-   git clone https://github.com/yourname/player-reid-project.git
-   cd player-reid-project
 ```
+git clone https://github.com/yourname/player-reid-project.git
+cd player-reid-project
 ```
 2. Install Python Dependencies
 Ensure Python ≥ 3.9 is installed. Then run:
